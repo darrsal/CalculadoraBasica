@@ -37,12 +37,6 @@
         <exec.mainClass>daniel.itszn.edu.mx.calculadorabasica.CalculadoraBasica</exec.mainClass>
     </properties>
 
-<properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven.compiler.release>17</maven.compiler.release>
-    <exec.mainClass>daniel.itszn.edu.mx.calculadorabasica.CalculadoraBasica</exec.mainClass>
-</properties>
-
 <build>
     <plugins>
         <plugin>
